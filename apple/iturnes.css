@@ -1,0 +1,406 @@
+.header-fixed {
+    position: fixed;
+    width: 100%;
+    height: 45px;
+    background-color: black;
+
+    display: block;
+}
+
+body{
+    margin: 0;
+    height: 1000px;
+}
+
+.container{
+    height: 100px;
+}
+
+.header-table{
+    margin-top: 10px;
+    margin-left: 25%;
+    
+}
+.header-icon{
+    width:13px;
+    height: 15px;
+    padding-right: 38px;
+    cursor: pointer;
+}
+
+.header-menu{
+    padding-right: 18px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 12px;
+    color: #b1a8a8;
+    cursor: pointer;
+}
+.header-menu:hover{
+    color: #fff;
+}
+
+.header-icon-1{
+    width: 16px;
+    height: 14px;
+    padding-right: 38px;
+    cursor: pointer;
+}
+.header-icon-2{
+    width: 16px;
+    height: 18px;
+    padding-right: 38px;
+    cursor: pointer;
+}
+
+
+
+.music-icon
+{
+    width: 160px;
+  margin-left: 48%;
+}
+.itunes
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 30px;
+    margin-left: 50%;
+    margin-top: -16px;
+}
+.downlod
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 60px;
+    margin-left: 25%;
+    width: 55%;
+    text-align: center;
+    /* margin-top: -16px; */
+}
+.apppara
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 20px;
+    margin-left: 34%;
+    width: 36%;
+    text-align: center;
+    color: #4e4a4a;
+}
+.iturnwindows
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+    margin-left: 4%;
+    /* width: 36%; */
+    text-align: center;
+    color: #4e4a4a;
+    margin-top: 80px;
+}
+.microsofticon
+{
+    margin-left: 46%;
+    margin-right: 25%;
+    width: 12%;
+    margin-top: 20px;
+ }
+.laptop
+{
+    margin-left: 30%;
+    margin-right: 10%;
+    width: 45%;
+    margin-top: 20px;
+}
+.left
+{
+    width: 14%;
+    float: left;
+    margin-left: 30%;
+}
+.systemrequirment
+{
+    font-size: 20px;
+    margin-top: -4px;
+
+}
+.windowssystemrewuirment
+{
+    text-decoration: none;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    /* text-align: center; */
+    width: 25%;
+}
+.right
+{
+    width: 14%;
+    float: right;
+    margin-right: 26%;
+    margin-top: -23px;
+
+}
+.version
+{
+   
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+font-size: 15px;
+margin-left: 30%;
+margin-top: 50px;
+padding-bottom: 100px;
+}
+.macos
+{
+    text-decoration: none;
+    padding-left: 10px;
+}
+.widnows
+{
+    padding-left: 10px;
+    text-decoration: none;
+}
+.section2
+{
+    background-color: #fbfbfd;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 30%;
+    padding-right: 20%;
+    display: flex;
+}
+.iturnsupport
+{
+    background-color: #fbfbfd;
+    width: 40%;
+    margin-right: 25px;
+    text-align: center;
+}
+.answeryourquestion
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 30px;
+}
+.answeryourquestionpara
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+ 
+} 
+ 
+.learnmore
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+ 
+}
+.learnmorelink
+{
+    text-decoration: none;
+}
+.previousversion
+{
+    background-color: #fbfbfd;
+    text-align: center;
+    margin-left: 25px;
+    width: 40%;
+    
+} 
+.versionofitune
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 30px;
+}
+.downloaderilerversion
+{
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+.findpreviousversion
+{
+    
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+padding-top: 17px;
+}
+.findpreviousversionlink
+{
+    text-decoration: none;
+}
+.footer
+{
+    background-color: #f5f5f7;
+    width: 100%;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footersection
+{
+    margin-left: 35%;
+    margin-right: 15%;
+    margin-top: 35px; 
+    
+}
+.shop-div
+{
+    width: 25%;
+    float: left;
+}
+.service-div
+{
+    width: 25%;
+    float: left;
+    
+}
+.about-div
+{
+    width: 25%;
+    float: left;
+}
+
+.shop
+{
+    line-height: 40px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 20px;
+    
+}
+.shoplist
+{
+    list-style-type: none;
+    line-height: 8px;
+}
+.shoplink
+{
+    text-decoration: none;
+    color: black;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+.service
+{
+    font-size: 20px;
+    line-height: 40px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+   
+}
+
+
+.servicelist
+
+{
+    list-style-type: none;
+    line-height: 10px;
+}
+.servicelink
+{
+    text-decoration: none;
+    color: black;
+
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+.about
+{
+    font-size: 20px;
+    line-height: 40px;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  
+}
+
+
+.aboutlist
+
+{
+    width: 65%;
+    list-style-type: none;
+    line-height: 13px;
+}
+.aboutlink
+{
+    text-decoration: none;
+    color: black;
+
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.copyright{
+    margin-left: 185px;
+    font-size: 13px;
+    color: #424245;
+}
+.final-table{
+    margin-top: -34px;
+    margin-left: 480px;
+
+}
+
+.final-1{
+    font-size: 13px;
+    color: #424245;
+    cursor: pointer;
+}
+.final-1:hover{
+    text-decoration: underline;
+}
+.final{
+    margin-left: 20px;
+    margin-right: 10px;
+    font-size: 13px;
+    color: #424245;
+}
+.India{
+    margin-top: -22px;
+    margin-left: 1120px;
+    font-size: 13px;
+    color: #424245;
+    cursor: pointer;
+}
+
+.India:hover{
+    text-decoration: underline;
+}
+
+.final-footer{
+    height: 10px;
+   
+   margin-left: 10%;
+}
